@@ -1,2 +1,15 @@
 /*  your css code here. If applicable */
 
+body {
+            margin: 0;
+            padding: 20px 15px;
+            background-color: #ffffff;
+            font-family: "Times New Roman", serif;
+        }
+
+        h1 {
+            font-size: clamp(32px, 6vw, 60px);
+            font-weight: bold;
+            color: #000000;
+            margin: 20px 0;
+        }
